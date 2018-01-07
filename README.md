@@ -8,5 +8,15 @@
 * 定位与查看地图  
       
 ### 涉及到的技术点：   
-Bmob后端云技术、RxVolley网络框架、Picasso多图异步加载、zxing二维码库、百度地图API、科大讯飞TTS语音引擎、自定义键盘及逻辑、 Tomcat文件下载和更新、 CircleImageView圆形头像、PhotoView图片缩放拖拽、实现时间轴效果、自定义短信提醒框   
+Bmob后端云技术、RxVolley网络框架、Picasso多图异步加载、zxing二维码库、百度地图API、科大讯飞TTS语音引擎、自定义键盘及逻辑、 Tomcat文件下载和更新、 CircleImageView圆形头像、PhotoView图片缩放拖拽、实现时间轴效果、自定义短信提醒框     
+
+### 从哪些方面下手   
+* Package  
+* Application   
+* Activity  
+* Drawable   
+* Values     
+* UtilTools  
+* StaticClass   
+
 
