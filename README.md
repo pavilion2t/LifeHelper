@@ -28,7 +28,6 @@ Bmob后端云技术、RxVolley网络框架、Picasso多图异步加载、zxing�
 
 Log-->开关  log.i(tag,text)   
 ```   
-package com.imooc.smartbutler.utils;
 import android.util.Log;
 
 public class L {
@@ -61,4 +60,12 @@ public class L {
         }
     }
 }
-  ```
+  ```   
+  
+  ### 工具类--封装SharedPreferences    
+  * sharedPreferences  
+  * SQLite  
+  * ContentProvider   
+  * File   
+  
+  Preference
